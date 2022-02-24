@@ -1,0 +1,486 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An anatomical account of the elephant accidentally burnt in Dublin on Fryday, June 17 in the year 1681 sent in a letter to Sir Will. Petty, fellow of the Royal Society : together with a relation of new anatomical observations in the eyes of animals, communicated in another letter to the Honourable R. Boyle ..., fellow of the same society / by A.M. ...</title>
+            <author>Mullen, Allan, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51584</idno>
+            <idno type="STC">Wing M3057</idno>
+            <idno type="STC">ESTC R32097</idno>
+            <idno type="EEBO-CITATION">12322209</idno>
+            <idno type="OCLC">ocm 12322209</idno>
+            <idno type="VID">59491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59491)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1019:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An anatomical account of the elephant accidentally burnt in Dublin on Fryday, June 17 in the year 1681 sent in a letter to Sir Will. Petty, fellow of the Royal Society : together with a relation of new anatomical observations in the eyes of animals, communicated in another letter to the Honourable R. Boyle ..., fellow of the same society / by A.M. ...</title>
+                  <author>Mullen, Allan, d. 1690.</author>
+               </titleStmt>
+               <extent>42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: A.M., Trinity College, May 12th, 1682.</note>
+                  <note>Attributed to Mullen by Wing and NUC pre-1956 imprints.</note>
+                  <note>Letter to Boyle regarding observations of animal eyes is not included.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elephants.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59491:1" rendition="simple:additions"/>
+            <p>AN Anatomical Account OF THE ELEPHANT Accidentally Burnt in DUBLIN, ON Fryday, June 17. in the Year 1681.</p>
+            <p>Sent in a LETTER To Sir WILL. PETTY, FELLOW OF The Royal Society.</p>
+            <p>TOGETHER With a Relation of new Anatomical Obſervations in the Eyes of Animals; Communicated in another LETTER to the Honourable R. Boyle, <abbr>Eſq</abbr> FELLOW of the ſame SOCIETY.</p>
+            <p>By A. M. Med. of Trinity Colledge near Dublin.</p>
+            <p>London, Printed for Sam. Smith, Bookſeller, at the Prince's Arms in St. Paul's Church-Yard. 1682</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59491:2"/>
+            <pb n="3" facs="tcp:59491:2"/>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>MY Ambition to ſerve the R.S. in general, &amp; my Obligations to your ſelf in particu<g ref="char:EOLhyphen"/>lar, are the only Motives that induce me to communicate my Obſervations on the Elephant burned here laſt Summer; for I underſtand that they are likely to be made publick, and am very unwilling to appear in Print, eſpecially at the diſ<g ref="char:EOLhyphen"/>advantages which now I muſt: For People admi<g ref="char:EOLhyphen"/>ring the Elephant, as well for his docility, as bulk, and rareneſs in theſe Countries, will expect ſo cu<g ref="char:EOLhyphen"/>rious an account of him, as may furniſh them with the Reaſons, why he comes to be more capable of doing things which ſeem to require Ratiocination, than any other Brute that we know. They may moreover think that from an exact deſcription of the ſeveral parts of his Body, moſt, if not all Veſ<g ref="char:EOLhyphen"/>ſels and Organs being larger conſiderably in him,
+<pb n="4" facs="tcp:59491:3"/>
+than in other Creatures, a great light into the true uſes of parts might be had.</p>
+            <p>Now Sir, I muſt deſire you to inform that Ho<g ref="char:EOLhyphen"/>nourable Society, for whom you deſign theſe fol<g ref="char:EOLhyphen"/>lowing Notes, and of whom you are a Member, with the Reaſons why I cannot anſwer ſuch great expectations. My want of Optick Glaſſes, and of other helps for curious Obſervations were conſide<g ref="char:EOLhyphen"/>rable.</p>
+            <p>Moreover the Circumſtances of time and place were unfortunate; for the Booth wherein the Ele<g ref="char:EOLhyphen"/>phant was kept, took fire about Three a Clock in the morning, on <hi>Friday</hi> the 17th of <hi>June;</hi> upon this the City being alarm'd, multitudes were ga<g ref="char:EOLhyphen"/>thered about the place: And when the fire was extinguiſhed every one endeavoured to procure ſome part of the Elephant, few of them having ſeen him living, by reaſon of the great rates put upon the ſight of him. To prevent his being taken away by the multitude, the Manager, Mr. <hi>Wilkins,</hi> procured a File of Muſqueteers to guard him, till he ſhould build a ſhed where he might ſe<g ref="char:EOLhyphen"/>curely disjoint him, in order to the making of a Skeleton: This he got finiſhed at Seven a Clock at Night, and about Eight I heard of his deſign. Be<g ref="char:EOLhyphen"/>ing deſirous to inform my ſelf in the ſtructure of the Elephant, I made ſearch for him, and having
+<pb n="5" facs="tcp:59491:3"/>
+found him I proffered my ſervice to him; of which when he accepted, I endeavoured to perſuade him to diſcharge ſome Butchers which he had in a rea<g ref="char:EOLhyphen"/>dineſs to order the Elephant after their way, and to leave the whole management of the matter to me, and to ſuch as I thought fit to employ, de<g ref="char:EOLhyphen"/>ſigning a general diſſection, and that the <hi>Icons</hi> of each part ſhould be taken in order by ſome Paint<g ref="char:EOLhyphen"/>ers, with whom upon this occaſion I could prevaile: But my endeavours prov'd fruitleſs, becauſe that about Ten a Clock that night, when we went to the ſhed, to find what condition the Elephant was in, he emitted very noiſom ſteams. Theſe made the Manager fear (the ſhed being very near the Council-Chamber, and the Cuſtom-Houſe,) that the Ld. Lt. or Ld. Mayor would order it to be ta<g ref="char:EOLhyphen"/>ken away as a nuyſance, and that ſo in all proba<g ref="char:EOLhyphen"/>bility it ſhould be loſt, and that perhaps he him<g ref="char:EOLhyphen"/>ſelf ſhould be puniſhed for ſuffering it to be there. When I conſidered, that in caſe he did not diſpoſe of him that Night, the next Day being <hi>Saturday,</hi> I ſhould be able to accompliſh but a ſmall part of what I deſigned, and that it would be both charge<g ref="char:EOLhyphen"/>able and difficult to preſerve him from the rabble till <hi>Monday,</hi> and that then the ſtink would be alto<g ref="char:EOLhyphen"/>gether intolerable, if it ſhould encreaſe in propor<g ref="char:EOLhyphen"/>tion to what it had done that day. I conſented to
+<pb n="6" facs="tcp:59491:4"/>
+have the buſineſs done that night, and for expedi<g ref="char:EOLhyphen"/>tions ſake, to make uſe of the Butchers as Aſſiſtants, but ſo as to be directed by my ſelf in every thing: But their forwardneſs to cut and ſlaſh what came firſt in their way, and their unrulineſs withal did hinder me from making ſeveral Remarks which otherwiſe I would have made: Thus the Ele<g ref="char:EOLhyphen"/>phant was disjointed by Candle-light. Some parts were burnt, moſt of thoſe that were not, were more or leſs defac'd by being parboiled. This may ſatisfie the R. <hi>S.</hi> how difficult it was to give a ſa<g ref="char:EOLhyphen"/>tisfactory Anatomical Account of the Elephant, and that the following ſlender one is given to ſhew my readineſs to ſerve them, and my Obedience to your Commands.</p>
+            <p>I ſhall not trouble you with a Repetition of what has been ſaid of the Elephant by <hi>Pliny, Geſner, Ta<g ref="char:EOLhyphen"/>vernier,</hi> and others, being very little, if any way, inſtructive to any deſirous to underſtand the Ana<g ref="char:EOLhyphen"/>tomy of that Creature, but ſhall faithfully, and as plainly as I can, acquaint you with what occur<g ref="char:EOLhyphen"/>red remarkable to me, upon a view of the ſeveral parts of his Body, and ſhall add only ſome con<g ref="char:EOLhyphen"/>jectures of my own concerning the uſes of ſome parts derived from their ſtructure.</p>
+            <p>
+               <note place="margin">Cuticula.</note>I ſhall begin with the <hi>Cuticula,</hi> (of which I keep a piece which was raiſed by the Fire from a part of
+<pb n="7" facs="tcp:59491:4"/>
+the <hi>Cutis,</hi> on which the Elephant was found lying, and which therefore was not defac'd) when I ex<g ref="char:EOLhyphen"/>amined this, I found it covered all over with a ſtrange ſort of Scab, in many places reſembling old Warts, deeply jagg'd, and the carnous Fibres of the Muſcles of Beef, when much boiled, and tranſverſly cut, but of a dirty tawny Colour. Theſe Scabs (if I may ſo call them) both ſlit and cut, lookt like ſhort pieces of Whalebone. They did ſo firmly ſtick to the <hi>Cuticula,</hi> that I could not pull them from it, nor the parts of which they conſiſt<g ref="char:EOLhyphen"/>ed (though they were much divided) from one a<g ref="char:EOLhyphen"/>nother, without tearing it. And yet the <hi>Cuticula</hi> was much tougher and thicker than any that I have ſeen.</p>
+            <p>The length of theſe Scabs was in ſome ⅓ or ¼ but in other places not above 1/10 or 1/12 of an Inch. The cauſe of which difference I take to be the Ele<g ref="char:EOLhyphen"/>phants wearing, by rubbing or lying, ſome parts of them, whilſt others were ſlightly or not at all worn.</p>
+            <p>I could find but very few Hairs without this ſcab, but many within, and even with it. The Elephants inclinations to Itch, and to rub himſelf againſt what<g ref="char:EOLhyphen"/>ever came in his way, kept thoſe Hairs that were even with the outſide of the aforeſaid ſcab, from appearing of any conſiderable length. The hard<g ref="char:EOLhyphen"/>neſs
+<pb n="8" facs="tcp:59491:5"/>
+of the ſcab by keeping the Roots of the Hairs faſt, did very much contribute to their wearing on the outſide, as well as to their preſervation on that within. The length of the Hairs for the moſt part was equal to that of the Scabs.</p>
+            <p>
+               <note place="margin">The Hair.</note>The Hair in the <hi>Cutis,</hi> when diveſted of its <hi>Cu<g ref="char:EOLhyphen"/>ticula,</hi> were numerous, and many of them were conſiderably ſtiffer and thicker than the briſtles of a Hog. They were black, and as many as were found in the <hi>Cuticula,</hi> when ſeparated from the <hi>Cu<g ref="char:EOLhyphen"/>tis,</hi> were plainly covered over with thin Mem<g ref="char:EOLhyphen"/>branes, from the extremity of the Roots to the <hi>Cuticula.</hi> Theſe (with ſubmiſſion to better Judg<g ref="char:EOLhyphen"/>ment) I take to be the linings to peculiar <hi>ductus,</hi> which by the heat of the Fire were ſeparated from them, as the <hi>Cuticula</hi> was from the <hi>Cutis.</hi> In theſe <hi>ductus</hi> the Hairs were manifeſtly planted. Now ſeeing that cloſe about the Roots of Hairs, as well as on the Pores, near which there is no Hair, a dew may be diſcerned ſoon after ſweat is wiped away. I take it to be reaſonable to think, that there are two ſorts of Pores in the skins of Animals. One ſmall, deſigned altogether for the ſeparation of ſuch Liquors and Vapours, as are uſually thrown off by inſenſible Perſpiration and Sweat. The other to contain and nouriſh Hairs; for at the bottom of each of theſe <hi>ductus</hi> there appeared to the naked Eye
+<pb n="9" facs="tcp:59491:5"/>
+ſmall Glandules when the Skin was divided to the ex<g ref="char:EOLhyphen"/>tremity of the roots. Theſe I ſuppoſe to be the <hi>glandulae miliares,</hi> obſerv'd by the moſt accurate Ana<g ref="char:EOLhyphen"/>tomiſts, <hi>Segnior Malphigi,</hi> and Dr. <hi>Steno,</hi> in their ſtructure of the <hi>Cutis.</hi> Theſe probably ſeparate from the maſs of Blood an excrementitious matter, fit for the nouriſhment of the Hairs, and what is not ſpent in that, is (I ſuppoſe) caſt out between the Hairs and the aforementioned thin Membranes, which, upon that account, may be properly cal<g ref="char:EOLhyphen"/>led Lymphaeducts; and ſo likewiſe may the ſmal<g ref="char:EOLhyphen"/>ler ſort, (of which more anon) and each of them a proper <hi>Vas excretorium</hi> to a <hi>Glandula Miliaris.</hi>
+            </p>
+            <p>The Hairs which came out of the Skin, and which were in the <hi>Cuticula,</hi> were from the end of the root to the <hi>Cuticula</hi> in length between ¼ and ½ of an Inch.</p>
+            <p>
+               <note place="margin">Cutis.</note> The outward <hi>ſuperficies</hi> of the <hi>Cutis,</hi> freed from the <hi>Cuticula,</hi> was very uneven, by reaſon of a vaſt number of Pyramidal <hi>papillae,</hi> about the bigneſs of ſmall Pins heads: To fit each of theſe there were cavities in the <hi>Cuticula.</hi> Theſe <hi>papillae</hi> were probably pores, being to the ſight like thoſe that a ſudden Cold produces in our Skins, and which unqueſtionably are ſuch.</p>
+            <p>Now if it be granted, that in Brutes there is an inſenſible Perſpiration (which all rational men
+<pb n="10" facs="tcp:59491:6"/>
+that ſees them ſweat will allow, foraſmuch as what is by that caſt off, is not ſo groſs a Body as Sweat,) and if their inſenſible diſcharge be grant<g ref="char:EOLhyphen"/>ed proportionable to that of a man; it will follow, that the Elephant being a Creature of extraordina<g ref="char:EOLhyphen"/>ry bulk, muſt have very many pores, and very large ones too, ſuch as may be diſcerned by the naked Eye, when we find them to be ſo even in Men, in the Palms eſpecially of the Hands, and in them all other Veſſels are proportionably leſs than they were in the Elephant. <hi>I</hi> ſay, that the pores muſt be both numerous and large, for the uſe aforeſaid, eſpecial<g ref="char:EOLhyphen"/>ly if we may confide in <hi>Sanctorius</hi> his <hi>Statical Obſer<g ref="char:EOLhyphen"/>vations</hi> of a mans inſenſibly perſpiring in a Winters day 50 Ounces, and upwards, which is ſomwhat more than a 54th part of an ordinary mans weight, which <hi>I</hi> take to be about 170 <hi>l.</hi> (and upon ſuch meaning himſelf, <hi>I</hi> ſuppoſe him to have made his Experiments,) and allow the Elephant to perſpire proportionably, we will find that his daily inſen<g ref="char:EOLhyphen"/>ſible evacuation will amount to very near 93 <hi>l.</hi> if we may believe ſome that has ſeen the Elephant put on Shipboard, and taken off, that ſaid he weigh<g ref="char:EOLhyphen"/>ed 2½ Tuns or 5000 <hi>l.</hi> of which 93 <hi>l.</hi> is about a 54th part. Though <hi>I</hi> am not forward to believe, what <hi>I</hi> have at ſeveral times been told, as to his weight, nor aſſured that his Tranſpiration was pro<g ref="char:EOLhyphen"/>portionable
+<pb n="11" facs="tcp:59491:6"/>
+to that of a man, becauſe of the out<g ref="char:EOLhyphen"/>ward ſcab, which might bar it; yet that he did much tranſpire <hi>I</hi> believe, from the vivacity of his <hi>ſpecies,</hi> and have together with many Arguments for per<g ref="char:EOLhyphen"/>ſpiration in general, one in particular to alledge for the great neceſſity of it in this Animal, and that is this, his blood and fleſh did extraordinarily a<g ref="char:EOLhyphen"/>bound with an urinous Salt, which made the maſs of humours extraordinary active, and conſequently capable of making their way through the ſmalleſt paſſages, the pungency of the Salt not a little irrita<g ref="char:EOLhyphen"/>ting the pores to an excretion. I ſuppoſe moreover that this Salt ought to be neceſſarily and continually caſt off with ſeroſities, to prevent diſeaſes conſe<g ref="char:EOLhyphen"/>quent to too great a quantity of <hi>Volatile Salt</hi> in the Body. Why the exorbitancy of this ſort of Salt, as well as that of a fixed <hi>Marine Salt</hi> in <hi>Scorbutick</hi> Perſons, ſhould not cauſe many diſtempers, (though few of ſuch may be known to the Inhabitants of our cold Climates,) I cannot gueſs; but that he did ſo abound in an Urinous Salt, did appear not only from the urinous <hi>effluvia</hi> which ſo affected my Noſtrils that I was ſcarce able to endure them; but alſo from the ſmarting which his blood occaſioned, (contrary to what I ever obſerv'd in that of other Creatures) lighting on a cutt which I accidentally at that time receiv'd in one of my Fingers. The difference be<g ref="char:EOLhyphen"/>tween
+<pb n="12" facs="tcp:59491:7"/>
+the pungency of the Salt in this Blood, and that in ſtale Urine was ſuch, that the latter uſually in a little time ceaſes to ſtimulate a tender part kept ſteept in it, whereas the former did make my Finger all that night, and the next day whilſt embrued in it continually ſmart. But more eſpecially it appear<g ref="char:EOLhyphen"/>ed from the taſt of his Fleſh when dreſſed on the Coals, before a fire, or fri'd, (boiling in Water took it clear away) which was, as near as I can gueſs, like that of lean Beef ſeaſon'd with Salt of Hartshorn.</p>
+            <p>It is not only probable therefore that the Ele<g ref="char:EOLhyphen"/>phant did inſenſibly perſpire much, but alſo that thoſe Pyramidal <hi>Papillae</hi> were the paſſages through which he did tranſpire, nothing except them and the places of the Hairs appearing any way like pores.</p>
+            <p>
+               <note place="margin">Cutis ſub<g ref="char:EOLhyphen"/>ſtantia.</note>When the <hi>Cutis</hi> was cut through, as far common<g ref="char:EOLhyphen"/>ly as the roots of the Hairs reach'd, it was like the cal<g ref="char:EOLhyphen"/>lous or horny part of Brawn; but the inner part was very glandulous with a little fat interſpers'd.</p>
+            <p>
+               <note place="margin">Craſſities cutis.</note>The <hi>Cutis</hi> before it dried was in ſome places 1¼ Inch thick, and in other places not above an Inch, and in others ſomwhat leſs.</p>
+            <p>I could find no cutaneous Veſſel of any remark<g ref="char:EOLhyphen"/>able bigneſs, and but very few ſmall ones.</p>
+            <p>
+               <note place="margin">Pannicu<g ref="char:EOLhyphen"/>lus carno<g ref="char:EOLhyphen"/>ſus defuit.</note>
+               <hi>I</hi> made ſearch for the <hi>Panniculus carnoſus,</hi> but found none. <hi>I</hi> was the more diligent in my ſearch for it, becauſe that <hi>I</hi> underſtood it was uſual with
+<pb n="13" facs="tcp:59491:7"/>
+the Elephant to kill the Flies which lighted on the cracks in his Skin, and tormented him; and this he did by bringing the ſides of the cracks cloſe toge<g ref="char:EOLhyphen"/>ther of a ſudden, which <hi>I</hi> thought to be performed by that cutaneous Muſcle, meaning the aforeſaid <hi>Panniculus carnoſus,</hi> but nothing like it appearing, <hi>I</hi> concluded that what <hi>I</hi> ſuppoſed ought to have been done by that Muſcle, was in this Animal done by putting himſelf ſuddenly in a poſture to wrinkle the skin of that ſide that was attack'd by the Flies, and this to be done by bending his body that way, by which means what was before ſtreight for him, being now too full, the ſides of the cracks were forced cloſe together, &amp; thus the Flies were bruis'd.</p>
+            <p>
+               <note place="margin">Defuit &amp; Membra<g ref="char:EOLhyphen"/>na adipo<g ref="char:EOLhyphen"/>ſa.</note> There was no <hi>Membrana adipoſa</hi> to be ſeen about him, neither was there inwardly or outwardly, ex<g ref="char:EOLhyphen"/>cept a little in the <hi>Perineum,</hi> any appearance of fat; but inſtead of the two laſt mentioned integuments, there was a very ſtrong nervous Membrane, ob<g ref="char:EOLhyphen"/>liquely deſcending from the <hi>Spinae dorſi</hi> to the <hi>Ster<g ref="char:EOLhyphen"/>num,</hi> and the <hi>linea alba.</hi>
+               <note place="margin">Membra<g ref="char:EOLhyphen"/>na nervo<g ref="char:EOLhyphen"/>ſa.</note> This Membrane was very tough, and very near as hard to be cut as Whale<g ref="char:EOLhyphen"/>bone of the ſame thickneſs; which all along the back-bone was about ⅙ of an Inch; but the nearer the end <hi>I</hi> tried it the thinner <hi>I</hi> found it. This Mem<g ref="char:EOLhyphen"/>brane ſeem'd to terminate in the <hi>linea alba,</hi> as the tendons of the Muſcles of the <hi>abdomen</hi> uſually do.</p>
+            <p>
+               <pb n="14" facs="tcp:59491:8"/>The nervous Fibres of which this Membrane was made, were very diſtinguiſhable, and might eaſily be ſeparated for their whole length. <hi>I</hi> have nothing to ſay as to its Origin, unleſs it proceeded from the <hi>dura Mater.</hi> This doubtleſs was deſign'd to ſtreng<g ref="char:EOLhyphen"/>then this Creature, and perhaps that the weight of the <hi>Viſcera</hi> contain'd in the <hi>Abdomen,</hi> ſhould not di<g ref="char:EOLhyphen"/>ſtend the <hi>Peritoneum,</hi> and the Muſcles adjoining, ſo as to let them hang lower than was convenient.</p>
+            <p>
+               <note place="margin">The Tax<g ref="char:EOLhyphen"/>wax.</note>The Ligament, commonly call'd Taxwax, reach'd from the Head, to which it grew, to about the 13th <hi>vertebra</hi> of the <hi>dorſum;</hi> it was double, one on each ſide of the <hi>Spinae vertebrarum colli &amp; dorſi;</hi> it was both very thick, and very broad, and conſequently very ſtrong; its uſe doubtleſs was to aſſiſt the Muſcles and other parts of the Neck, to bear the extraordi<g ref="char:EOLhyphen"/>nary weight of the Head, being placed not flat, but edgewiſe, like Planks uſed as Joices to bear up Floors. And this piece of Architecture is found in moſt, if not all Quadruped's, for the very ſame purpoſe; but being needleſs, it's wanting in men.</p>
+            <p>I made no other Remark on the Muſcles, but that they were very large, and conſiſted of Fibres much thicker than thoſe of Beef.</p>
+            <p>
+               <note place="margin">Muſculi duo Re<g ref="char:EOLhyphen"/>tractores Penis.</note>In ſearching for the <hi>Teſtes,</hi> I found Muſcles ſo like them, that I doubted not but that they were the ve<g ref="char:EOLhyphen"/>ry <hi>Teſtes;</hi> their ſhape did moſt exactly reſemble
+<pb n="15" facs="tcp:59491:8"/>
+them: and their tendons, before the <hi>Teſtes</hi> are ta<g ref="char:EOLhyphen"/>ken out of the <hi>Proceſſus</hi> of the <hi>Peritoneum,</hi> might paſs for the ſeminary Veſſels; nothing by Candle-light, but an examination of them by diſſection, could have undeceived me. I was very deſirous to ſee the Anatomy of one of them, and did what I could to inform my ſelf that way, by which means I diſcovered my Errour, and having found two Muſcles unlike any that ever I ſaw, I trac'd them to the inner and lower ſide of the <hi>Os Iſchion;</hi> where I found them implanted; I traced the tendons like<g ref="char:EOLhyphen"/>wiſe, and found that when they had gone ſingly near upon 4 Inches, that they joined in one, which went directly under the middle of the <hi>Penis,</hi> and reach'd beyond a crookedneſs that <hi>I</hi> obſerved in it: this was in length about 8 Inches, it was then with<g ref="char:EOLhyphen"/>in 6 or 7 Inches of the <hi>Glans</hi> terminated: having ex<g ref="char:EOLhyphen"/>panded itſelf into a Membrane.</p>
+            <p>There was, beſides theſe, a nervous Body that began underneath, near the aforeſaid tendons, about 8 Inches from the root of the <hi>Penis,</hi> and reached (diſtinct from the Yard) 9 Inches, before it was in<g ref="char:EOLhyphen"/>ſerted again in it, at a place 5½ Inches from the <hi>Glans.</hi>
+            </p>
+            <p>
+               <note place="margin">Eoru<g ref="char:cmbAbbrStroke">̄</g> uſus.</note> When I conſidered that the Actions of all Muſcles were, by a Swelling and a Contraction of their Fibres, <hi>I</hi> was of opinion on the account of thoſe Muſcles, and of that nervous Body ſo conve<g ref="char:EOLhyphen"/>niently
+<pb n="16" facs="tcp:59491:9"/>
+plac'd for that purpoſe, that the Elephant was a Retromingent, and very probably a Retro<g ref="char:EOLhyphen"/>coient Animal. The crookedneſs and bending downwards, which I obſerved in the <hi>Penis,</hi> ſom<g ref="char:EOLhyphen"/>what ſhort of the end of the Tendon confirm'd me in that Opinion, &amp; laſtly the confeſſion of thoſe that were his conſtant Attendants, put the buſineſs out of doubt; for they ſaid, that whenſoever the Elephant would make water, they obſerv'd him unſheath his <hi>Penis,</hi> and turn it backwards, and ſo piſs between his hind Legs outwards. Here nature manifeſted her care in making a peculiar proviſion for this un<g ref="char:EOLhyphen"/>weildy <hi>Animal</hi> to prevent his wallowing in his own Excrements.</p>
+            <p>After this, and a long ſearch, I found the <hi>Teſtes</hi> which were not contain'd in a <hi>Scrotum</hi> or <hi>Capſula,</hi> but lay in the <hi>Perineum,</hi> cloſe joined on each ſide to the <hi>Penis;</hi> they were neither of the uſual ſhape, bigneſs, nor included in a <hi>proceſſus</hi> of y<hi rend="sup">e</hi> 
+               <hi>Peritoneum.</hi> Their ſhape was very like that of a Cheſnut; they were thicker on the ſide that grew to the <hi>Penis</hi> than on the oppoſite. They were flat &amp; round. They were not ſutable to the other parts of his Body; for if I had the curioſity to weigh them, I believe that both ſhould be found to weigh but little more than 3, or at moſt 4 ounces. They were join'd to the <hi>Penis</hi> by a great many, at leaſt 100 ſeminal <hi>Tubes,</hi> which may be properly
+<pb n="17" facs="tcp:59491:9"/>
+call'd <hi>Vaſa deferentia,</hi> &amp; which depoſited the elaborated <hi>Semen</hi> in ſeveral Rhomboid Cells, plac'd in the body of the <hi>Penis,</hi> which in this Creature was the common and only repoſitory for the ſeed that I could find. Theſe Cells were turgid with Sperm, and ſo were the <hi>Tubes;</hi> the latter were larger than any that ever I ſaw, in the <hi>Teſtes</hi> of other Animals; moſt of them without any force receiving a Block Tin Wire of equal thickneſs with the biggeſt of the ordinary Pins; and this they re<g ref="char:EOLhyphen"/>ceived for an Inch, and ſometimes more, when the <hi>Tu<g ref="char:EOLhyphen"/>be</hi> was ſtreight, as moſt of them were; but when I fol<g ref="char:EOLhyphen"/>lowed them further into the Body of the <hi>Teſtis,</hi> they be<g ref="char:EOLhyphen"/>came ſenſibly ſmaller &amp; ſmaller till they diſappear'd.</p>
+            <p>I ſearch'd for that which Dr. <hi>Highmor</hi> calls a <hi>Ductus,</hi> and <hi>De Graafe</hi> more truly makes the <hi>Stabilimentum</hi> to the Veſſels in the <hi>Teſtes</hi> both Blood and Seminary; but could not clearly ſee it. The blood Veſſels came into the <hi>Teſtes</hi> by the <hi>Vaſa deferentia.</hi>
+            </p>
+            <p>Though theſe were ſmall and diſproportionable, yet I took them to be the <hi>Teſtes,</hi> nothing elſe outward<g ref="char:EOLhyphen"/>ly appearing that contain'd Seminary Veſſels, till I un<g ref="char:EOLhyphen"/>derſtood by the curious Anatomiſt and learned Phyſici<g ref="char:EOLhyphen"/>an Dr. <hi>Needham,</hi> that my deſcription of the Teſticles of the Elephant did agree to the <hi>Proſtatae</hi> of a Boar; upon which I concluded that I miſtook the <hi>Teſtes</hi> for the <hi>Pro<g ref="char:EOLhyphen"/>ſtatae,</hi> there being a great reſemblance between theſe Animals, and having found Two Subſtances (of which more anon) between the Kidneys and the neck of the
+<pb n="18" facs="tcp:59491:10"/>
+Bladder, which might very well be <hi>Teſtes,</hi> and which, till <hi>I</hi> diſcours'd that ingenious Gentleman <hi>I</hi> did not well know what to make of.</p>
+            <p>
+               <hi>I</hi> ſhall, when <hi>I</hi> come to the inward parts, ſay ſom<g ref="char:EOLhyphen"/>thing of the <hi>vaſa praeparantia.</hi>
+            </p>
+            <p>The <hi>vagina</hi> for the <hi>Penis</hi> was, at the opening, horny, and was ſhut up ſo cloſe, that there was not room for a mans little finger to get in. We could not, without dividing it, come at the Yard.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nis.</note>The <hi>Penis</hi> look'd more inconſiderable by being ſo cloſely ſhut up, than it did when freed from the Sheath; it was larger than that of a Stone-Horſe, but hardly ſo long.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rethra.</note>The <hi>Urethra</hi> was large, for it admitted a round ſtick, near as thick as a mans Finger, which was thruſt into it to ſtreighten it.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ritone<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</note>The <hi>Peritoneum</hi> was a very tough, thick, white Membrane, much wrinkled, that might be divided into many, though not diſtinct, Membranes.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mentu<g ref="char:cmbAbbrStroke">̄</g>.</note>The <hi>Omentum</hi> was nothing but a very thin and double Membrane, together with a net of ſmall blood-veſſels, accompanied with ſmall threads of Fat; its inſertions were as uſually they are in other <hi>Animals.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entricu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lus.</note>The <hi>Ventricle</hi> was in length 4 foot, and about 3 inches, it was round about 3½ Foot. The <hi>Aeſophagus</hi> was not inſerted in the extremity of it, as in Men, Dogs, and many other <hi>Animals,</hi> but a Foot from that, towards the middle of it, in which (if I miſtake not) it agrees
+<pb n="19" facs="tcp:59491:10"/>
+with the Stomach of a Horſe. There was but one, contrary to what ſome did imagine, if we do not rec<g ref="char:EOLhyphen"/>kon the <hi>Coecum</hi> and the <hi>Colon</hi> for two. I found ſeveral peble ſtones in it, whereof ſome were large, which if weighed, would be found to be between 3 and 4 ounces. By their colour and ſhapes I ſhould gueſs them to be taken, not long before, from ſome Sea ſhore. They were ſwallowed, I ſuppoſe, to cleanſe the Stomach &amp; Guts. I did not find any thing elſe remarkable in the Stomach, its ſhape, Coats and Fibres agreeing in other things, with that of Men, Dogs, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">Inteſt<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> The <hi>Inteſtina tenuia</hi> were burnt in many places, tenui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> but not quite through any where, excepting two or three.</p>
+            <p>
+               <note place="margin">Ileum Jejunu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> The <hi>Ileum</hi> and <hi>Jejunum</hi> were not extraordinary big, but were in length about 52 Foot.</p>
+            <p>
+               <note place="margin">Duode<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> The length of that which is commonly call'd the <hi>Duodenum,</hi> was about 4½ Foot.</note>
+            </p>
+            <p>
+               <note place="margin">Coecum</note> The <hi>Coecum</hi> was very large and diſtended with hard dung; its Coats were thicker, and its Fibres were ſtronger than thoſe of the Stomack. The thickneſs of the Fibres vvas very diſcernable vvhere a part of this Gut vvas burnt. The length of this Gut vvas about 20 inches, but its meaſure round about vvas about 2½ foot.</p>
+            <p>
+               <note place="margin">Colon.</note> The <hi>Colon</hi> vvas monſtrouſly big, for it vvas in ſome places upvvards of 3½ Foot round, and in others it vvanted ſomvvhat of 3 Foot; its length vvas to an in<g ref="char:EOLhyphen"/>conſiderable matter, 15 Foot, though I ſearched dili<g ref="char:EOLhyphen"/>genly for the <hi>Valvula coli,</hi> I could perceive nothing of it.</p>
+            <p>
+               <pb n="20" facs="tcp:59491:11"/>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctum.</note>The <hi>Rectum</hi> (by which I mean the remainder of the <hi>Inteſtina craſſa,</hi> (though a part of them could not be properly ſo called) becauſe of the equality for the moſt part of their Diameters, and diſproportion to the <hi>Colon,</hi> and of my want of a name for a new Gut.) was about 4 Foot in length; and ſo the whole length of the Guts was about 75 Foot, or 25 Yards.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>brarum <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ciculus</note>There was a <hi>Faſciculus</hi> of ſtreight Fibres, near as thick, and altogether as broad as a mans middle Fin<g ref="char:EOLhyphen"/>ger; this (to the beſt of my remembrance) began at the <hi>Coecum</hi> and reach'd to the <hi>Anus.</hi> This was oppoſite to the Meſentery, and was, I ſuppoſe, deſign'd upon occaſion to ſhorten that ſide of the Guts, as the Meſen<g ref="char:EOLhyphen"/>tery did the oppoſite; that ſo the <hi>Periſtaltick motion</hi> of the Guts might be more equal, and conſequently, that the Excrements might be the more eaſily protruded, the paſſage being more direct; and alſo that their propulſion might be in leſs time, becauſe that the journey is thereby ſhortened.</p>
+            <p>The Fibres of the Guts, both ſtreight and ſpiral (for ſo they ſeem'd to be, and not truly circular) were very ſtrong and thick.</p>
+            <p>There were many large Veins in the Guts, and be<g ref="char:EOLhyphen"/>tween the inner <hi>Tunica</hi> (which by the bye was very <hi>glan<g ref="char:EOLhyphen"/>dulous</hi> and thick) and the third, or that next it, there was a curious <hi>Plexus retiformis</hi> of Blood-veſſels.</p>
+            <p>
+               <note place="margin">Meſente<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ium.</note>The <hi>Meſentery</hi> was very ſtrong, being very thick, it had no fat about it, neither was there any relique of it.</p>
+            <p>
+               <pb n="21" facs="tcp:59491:11"/>
+               <note place="margin">Vena <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſaraica</note> The <hi>Meſaraick Veins</hi> were very large, many of them equalling, and ſome exceeding in bigneſs the <hi>Vena cava</hi> of a Maſtiff Dog. I do not remember to have ſeen any remarkable <hi>Glandule</hi> in it.</p>
+            <p>
+               <note place="margin">Hepar.</note> The Liver was very large, and conſiſted of 2 <hi>Lobes</hi> only, each long, round, and a little flattiſh. The <hi>Fiſſure</hi> which made thoſe <hi>Lobes</hi> reach'd ⅔ of the length of the Liver. I found the Stomach plac'd between theſe two, one lay upon it, and the other lay between it and the <hi>vertebrae</hi> of the back, like a bolſter: Whether this was the natural place of the Stomach, or put there by the Elephants ſtrugling to get looſe to avoid the fire, I will leave to you to determine.</p>
+            <p>
+               <note place="margin">Membr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>na hepar inveſtie<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> The Membrane that inveſted the Liver was rais'd from it for a conſiderable way, as if it ne'er had been join'd to it; though this Membrane ſeem'd to be whole, and look'd like the <hi>Cuticula</hi> raiſed by a bliſtering Plaiſter, yet there was no <hi>ſerum</hi> contained in it; and where it ſeemed to be intimately join'd to the Liver, by a gentle pull it came off, without tearing any thing that I could take notice of, as if it had been but very ſlightly faſtened to the Liver, or rather a bag which contain'd it, and exactly fitted it: But for all this I can<g ref="char:EOLhyphen"/>not but think that this Membrane, as well as every one, which immediately includes any of the <hi>Viſcera</hi> have be<g ref="char:EOLhyphen"/>ſides other uſes, this one; namely to terminate and ſhut the capillary veſſels; ſo to prevent a gleeting of ſerous humours, which would inevitably follow, and
+<pb n="22" facs="tcp:59491:12"/>
+which would ſoon ulcerate as well the adjacent, as the part itſelf, and we find that Nature does moſt com<g ref="char:EOLhyphen"/>monly obviate ſuch inconveniences; therefore I muſt wholly impute the clear in ſome places, and in others that eaſie ſeparation of the Membrane from the Liver, to the fire.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>is.</note>The <hi>Bilis</hi> was depoſited at the end of the firſt Gut, improperly call'd the <hi>Duodenum</hi> in this Creature, that is 4½ Foot below the <hi>Pilorus,</hi> from which place I trac'd the <hi>ductus communis</hi> to the Liver, to ſee the <hi>veſica fellea,</hi> but it was wanting, and in the place of it I found the <hi>Porus Biliarius</hi> come out of the Liver,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rus bili<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>us.</note> as the <hi>Ductus hepa<g ref="char:EOLhyphen"/>ticus</hi> uſually does. I obſerv'd likewiſe (which before I have done in other Creatures) that the <hi>Bilis</hi> found in that, differed both in colour and conſiſtency from that which I found in the <hi>Ductus Hepaticus;</hi> for the latter was a clear light yellow, and was congeal'd with all like a Jelly; whereas that of the former was of a dark green; and was ſomwhat more fluid than the Galls of an Ox. That there is this difference in the Galls of moſt <hi>Animals,</hi> is a thing that I believe time will diſcover, which then will excite diſcerning men to find out their different uſes. I could find nothing peculiarly remark<g ref="char:EOLhyphen"/>able in the ſubſtance of the Liver by cutting, only that it was manifeſtly glandulous, as the ſagacious <hi>Malphigi</hi> obſerved.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ncreas.</note>The <hi>Pancreas</hi> was very long, and large; for it reacht from about the middle of the Stomach to the <hi>Jejunum,</hi>
+               <pb n="23" facs="tcp:59491:12"/>
+which ſpace could not be leſs than 6½ Foot: it was a <hi>Glandula conglomerata</hi> as the <hi>Pancreas</hi> always is, and had its <hi>ductus</hi> ſo wide, that it could without force contain my little Finger; it opened into the Gut where the <hi>ductus felleus</hi> did: Whether both the paſſages join'd in one before their aperture into the Inteſtine or no, is a thing that I forgot.</p>
+            <p>
+               <note place="margin">Ejuſde<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ductus.</note> I found a <hi>Succus</hi> in the <hi>ductus,</hi> not limpid as uſually it appears, but of a very dark green colour, and yet very fluid, ſeeming to contain no viſcid Phlegm. I wanted the curioſity to taſte it.</p>
+            <p>
+               <note place="margin">Lien.</note> The Spleen was between 3 and 4 Inches in breadth, and in length 4 Foot, and ſomwhat more; it was ve<g ref="char:EOLhyphen"/>ry glandulous, agreeable to the ſame <hi>Malphigi</hi>'s Obſer<g ref="char:EOLhyphen"/>vations in his Book <hi>De Viſcerum ſtructura.</hi> I ſaw no<g ref="char:EOLhyphen"/>thing elſe in it that deſerv'd particular notice to be taken of it.</p>
+            <p>
+               <note place="margin">Gland<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> renales</note> The <hi>Renes ſuccenturiati,</hi> or <hi>Glandulae renales,</hi> were pla<g ref="char:EOLhyphen"/>ced in this, as in other <hi>Animals,</hi> but they differed in their length (which was about 3 inches) from that of other Creatures; they were hollow, and contained an ill coloured blackiſh blood, for which, <hi>I</hi> ſuppoſe, they are called <hi>Capſulae atrabiliariae;</hi> they were thicker than a Mans Thumb.</p>
+            <p>
+               <note place="margin">Renes.</note> The Kidneys lay, in a hollow exactly fitting them, in the Loins, and could hardly be diſcerned, though each of them vvas little leſs than a Childs Liver. Their Figure vvas Oval; they vvere included in a very ſtrong
+<pb n="24" facs="tcp:59491:13"/>
+Membrane, vvhich vvas faſtened to them in no place, but at the emulgent Veſſels. When this was taken off, each of the Kidneys was found to conſiſt of ſix <hi>Lobes.</hi> The Cavity uſually found in other Kidneys, called the <hi>Pelvis,</hi> here was wanting.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reter.</note>
+               <hi>I</hi> found the <hi>Ureter</hi> divided into 6 parts, one for each Lobe, each of them (as near as I can gueſs) of equal Diameter with the <hi>Ureter</hi> itſelf. Theſe went into their reſpective Lobes, about an inch before their arterial ſubſtance terminated.</p>
+            <p>There were no <hi>Carunculae Papillares,</hi> neither could I find any thing that made the manner of ſepara<g ref="char:EOLhyphen"/>ting the Urine, more intelligible than formerly it was.</p>
+            <p>The <hi>Ureter</hi> was no wider than that of an Ox; it had nothing peculiarly remarkable, except its diſproporti<g ref="char:EOLhyphen"/>on to moſt of the other parts of the Body.</p>
+            <p>
+               <note place="margin">Veſica U<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inaria.</note>The <hi>Veſica Urinaria</hi> was much of the ſame ſize with an Oxes Bladder, but much ſtronger, having thicker Fibres.</p>
+            <p>
+               <note place="margin">Venae prae<g ref="char:EOLhyphen"/>parantes.</note>The <hi>Venae praeparantes</hi> were large. I divided that which was inſerted into the emulgent, lengthwiſe; and, within a little more than an inch to its inſertion, I found many <hi>valves,</hi> I gueſs about Eight or Ten, theſe were of divers ſhapes, all fitted to hinder the return of the Blood into the variouſly divided Sperma<g ref="char:EOLhyphen"/>tick Vein; which here from Eight or Ten Rivulets became one great Channel.</p>
+            <p>
+               <pb n="25" facs="tcp:59491:13"/>Within about an inch of this, and ſome<g ref="char:EOLhyphen"/>what more than two of the Kidneys, I found a ſubſtance of the ſhape of a Pear: but near three times as big as the largeſt Pear ever I ſaw. I did what I could by different ways of diſſection to find out what manner of thing this was, which was altogether ſtrange for ought I knew: but after all can give but a very imperfect account of it; for the Butchers very unluckily did cut it out, and ſoe its communications with the teſtes, the penis and other parts could not be diſcovered.</p>
+            <p>What I obſerv'd in it is this, the Spermatick Veſſels at firſt entred but a little way into this ſubſtance; but, below the middle on't, I found them more deeply plac'd; and their Branch<g ref="char:EOLhyphen"/>es grow ſmall and leſs numerous to the ſight: as if here the Veins began. (By the bye I take the beginning of Veins to be from the extream Parts, as that of the Arteries is from the Heart.) The inward Parts of this Sub<g ref="char:EOLhyphen"/>ſtance look'd of a paliſh, but ſomewhat mud<g ref="char:EOLhyphen"/>dy red Colour; It was very ſpungy, not much more compact than the Lungs of young Animals. I doubt not but this Sub<g ref="char:EOLhyphen"/>ſtance was deſign'd to prepare the Semen.
+<pb n="26" facs="tcp:59491:14"/>
+But by what Veſſels it was brought to the <hi>Penis,</hi> or to any repoſitory (It ſelf containing none) I could not diſcover for the reaſons above mentioned. Neither could I find any peculiar Veſſel, or <hi>Ductus,</hi> or any thing that reſembled one in that afore<g ref="char:EOLhyphen"/>mentioned Subſtance by which I might be di<g ref="char:EOLhyphen"/>rected in my enquiry. It lay lengthways from the Kidneys to the <hi>Teſtes,</hi> with the biggeſt end loweſt. I was ſo intent upon a ſearch for ſome peculiar <hi>Ductus</hi> in this Part, that I clear<g ref="char:EOLhyphen"/>ly forgot to take notice of the <hi>Arteriae Prae<g ref="char:EOLhyphen"/>parantes;</hi> from what I heard the moſt accu<g ref="char:EOLhyphen"/>rate Anatomiſt, Dr. <hi>Nedham,</hi> ſay of the <hi>partes, generationi inſervientes,</hi> in general, and parti<g ref="char:EOLhyphen"/>cularly of thoſe of a Boar; I doubt not but that theſe two Pears faſhion'd now deſcrib'd Subſtances were <hi>Teſtes;</hi> their place, ſize, fi<g ref="char:EOLhyphen"/>gure, together with the want of the <hi>vaſa de<g ref="char:EOLhyphen"/>ferentia,</hi> occaſion'd by the Butchers unadvi<g ref="char:EOLhyphen"/>ſed cutting them out, were the cauſes of my ignorance heretofore in this point.</p>
+            <p>I had the <hi>Penis</hi> cut out, with its aprendi<g ref="char:EOLhyphen"/>ces, as carefully as I could; and yet I ſaw no <note place="margin">Veſiculae ſemina<g ref="char:EOLhyphen"/>les.</note> 
+               <hi>veſiculae ſeminales,</hi> nor any other common receptacle for the <hi>Semen,</hi> except the for<g ref="char:EOLhyphen"/>merly mention'd Rhomboide Cells obſerv'd in
+<pb n="27" facs="tcp:59491:14"/>
+the ſides of the <hi>Penis</hi> it ſelf. But after all this I cannot but ſuſpect my own unwarineſs to be the cauſe of my not obſerving them; for as much as I was at firſt convinc'd; that what I found to be really the <hi>proſtatae,</hi> was the <hi>Teſtes.</hi> Their being cloſly joyn'd to the <hi>Penis,</hi> and having there a free paſſage for the <hi>Semen,</hi> into the Cells before mentioned; took off my Curioſity to find out what is ge<g ref="char:EOLhyphen"/>nerally meant by the <hi>Veſiculae ſeminales,</hi> ha<g ref="char:EOLhyphen"/>ving ſuſpected no ſuch thing.</p>
+            <p>
+               <note place="margin">Diaphrag<g ref="char:EOLhyphen"/>ma.</note> The <hi>Diaphragma</hi> was made of very ſtrong carneous and nervous Fibres.</p>
+            <p>
+               <note place="margin">Thorax.</note> The cavity of the <hi>Thorax</hi> was fill'd by the Lungs and Heart;<note place="margin">Pulmones.</note> for the Lungs contrary to what I ever obſerved in other Quadrupeds, grew to the <hi>Pleura</hi> as far on each ſide at leaſt (I forgot whether they grew likewiſe to the <hi>Sternum</hi> or not) as the <hi>Cartilages</hi> of the Ribs. For thus far I well remember to have ſepara<g ref="char:EOLhyphen"/>ted them, they were ſo joyned that there was not one place, where you might ſee a natu<g ref="char:EOLhyphen"/>ral ſeparation of them. When I parted the Lungs and the <hi>Pleura,</hi> I found that they were joyned by Membranes that might be ſplit at pleaſure: but I could make no clear di<g ref="char:EOLhyphen"/>ſtinction of them into ſeveral Membranes.
+<pb n="28" facs="tcp:59491:15"/>
+By their manner of ſticking, they reſembled the Lungs of Fowl. By this you may gueſs how big they were; in other things they a<g ref="char:EOLhyphen"/>greed with the Lungs of other Animals.</p>
+            <p>
+               <note place="margin">Motus Thoracis.</note> I ſuppoſe that this Animal as well as o<g ref="char:EOLhyphen"/>thers, inſpired by enlarging the Cavity (if I may ſo call it) of the <hi>Thorax;</hi> which I ſup<g ref="char:EOLhyphen"/>poſe to be done principally by the motion of the Ribs from acute, to right Angels, as Dr. <hi>Mayo</hi> well obſerved. And this I take to be performed by the intercoſtal, Diaphragm, and Muſcles of the abdomen; thus the Cavity of the <hi>Thorax,</hi> being every way enlarged, readily receives the Air forced in impetuoſly by the weight of the Atmoſphaere, and I take his expiration to be done by a ceſſation of the motion of the aforeſaid Muſ<g ref="char:EOLhyphen"/>cles.</p>
+            <p>
+               <note place="margin">Pericar<g ref="char:EOLhyphen"/>dium.</note>The <hi>Pericardium</hi> was a ſtrong Membrane, and contained a good quantity of <hi>Serum.</hi>
+            </p>
+            <p>
+               <note place="margin">Cor.</note>The Heart was of the uſual conical figure, and placed as in other Animals: but it was as large as an ordinary Pompion.</p>
+            <p>The Veſſels belonging to it were propor<g ref="char:EOLhyphen"/>tionable.<note place="margin">Arteria Aorta.</note> For the <hi>Ateria Aorta</hi> (of which I keep a piece though much ſhrunk) is round eight inches: and the <hi>Vena Cava</hi> was as much
+<pb n="29" facs="tcp:59491:15"/>
+larger then the <hi>Arteria;</hi> as it is uſually in other Creatures.</p>
+            <p>
+               <note place="margin">Vena Iliaca.</note> By the bigneſs of the <hi>Vena Iliaca,</hi> you may perhaps gueſs better at the <hi>Cava;</hi> The for<g ref="char:EOLhyphen"/>mer when ſlit, did receive and almoſt cover my four fingers put into it edgewiſe.</p>
+            <p>
+               <note place="margin">Cordis au<g ref="char:EOLhyphen"/>riculae &amp; valvulae.</note> The <hi>Auricles</hi> and <hi>Ventricles</hi> were of a ſize that was ſuitable to the bigneſs of the Heart. The <hi>Valves</hi> were ſo too, and were the ſame both in number and figure with thoſe in o<g ref="char:EOLhyphen"/>ther Animals.</p>
+            <p>
+               <note place="margin">Arteria pulmona<g ref="char:EOLhyphen"/>ris.</note> I open'd the <hi>Arteria Pulmonaris</hi> and cut out the three <hi>Valvulae Mitrales;</hi> which when I meaſured, I found to be upwards of ſix of my inches in length.</p>
+            <p>There was no paſſage to be ſeen in the <hi>Sep<g ref="char:EOLhyphen"/>tum Medium.</hi>
+            </p>
+            <p>I could not find the bone in the Heart, which <hi>Galen</hi> ſays he found in <hi>Caeſar</hi>'s Elephant, diſſected by his Order at <hi>Rome.</hi>
+            </p>
+            <p>The <hi>Carotide Arterie</hi> of this Animal was very large; for it readily receiv'd a large cane into it.</p>
+            <p>
+               <note place="margin">Aeſophagus</note> The <hi>Aeſophagus</hi> after the uſual manner was outwardly Muſcular, and inwardly Mem<g ref="char:EOLhyphen"/>branous, The <hi>Muſcular Fibres</hi> were much thicker than ordinary; for their thickneſs up<g ref="char:EOLhyphen"/>on
+<pb n="30" facs="tcp:59491:16"/>
+the Membrane was about ⅓ of an Inch.<note place="margin">Maxilla Inferior.</note>
+            </p>
+            <p>The lower Jaw of this Beaſt, did reſemble that of a Hog, the moſt of any thing.</p>
+            <p>
+               <note place="margin">Lingua.</note>His Tongue was ſomewhat bigger than that of an Ox, and plac'd after the uſual manner. But this it had peculiar in it, that the paſſage to the <hi>Ventricle</hi> was through it; for there was a hole near the Root of it, and exactly in the middle of that part. Which hole was the beginning of the <hi>Aeſophagus;</hi> there was no communication between this and the paſſage into the Lungs, contrary to what we may obſerve in Men, in all Qua<g ref="char:EOLhyphen"/>drupeds and Fowl that ever I had an opper<g ref="char:EOLhyphen"/>tunity to diſſect. For the <hi>Membrana Pituita<g ref="char:EOLhyphen"/>ria Anterior,</hi> reach'd to the very Root of the Tongue below the <hi>Aeſophagus;</hi> and ſo quite ſtop'd the paſſage of the Air into the Mouth. From whence we may conclude, that he could not utter any voice by the mouth, and but little by the trunk or noſe.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>embra <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tuitaria <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>terior.</note>The former <hi>Membrana Pituitaria</hi> had ma<g ref="char:EOLhyphen"/>ny paſſages for the <hi>Saliva</hi> uſually ſeparated there. There was between the end of the <hi>Proboſcis</hi> and the <hi>Larinx</hi> a <hi>Membrana Pituitaria poſterior,</hi> which had very many of the ſame ſort of <hi>ductus.</hi>
+            </p>
+            <p>
+               <pb n="31" facs="tcp:59491:16"/>The <hi>Proboſcis</hi> was only a noſe prolong'd,<note place="margin">The Pro<g ref="char:EOLhyphen"/>boſcis.</note> where it was ſeparated from the Forehead, the ſubſtance of it look'd exactly like that of a Neats-tongue ſlit: the fleſh of it being cu<g ref="char:EOLhyphen"/>riouſly interlarded. Where the fire had en<g ref="char:EOLhyphen"/>ter'd upon it, I could diſtinctly perceive three Orders of Fibres; one obliquely and ſpirally deſcending; another ſpirally but croſwiſe de<g ref="char:EOLhyphen"/>ſcending; the third were ſtreight Fibres. Several of the notions of his <hi>Proboſcis</hi> might be perform'd by the aforementioned three diſtinct Series's of Muſcular Fibres.<note place="margin">Proboſcidis motus varii.</note> As its contraction, motion up, or down, to the right or to the left: But by what means he was able at pleaſure, to ſhoot it out from a foot upon any ſuddain occaſion to five foot long; and that with extraordinary force, I cannot clearly perceive. This ſort of motion ſeems to require a particular Theory, being very different from the other motions in the Body of this, and of other Animals; for to me all Muſcular motion ſeems to be by a con<g ref="char:EOLhyphen"/>traction of Fibres, even when the extention of a Part is deſign'd. In which caſe the Bones of the Parts are drawn, and kept directly one before another, by the contraction of ſome of the Muſcles.</p>
+            <p>
+               <pb n="32" facs="tcp:59491:17"/>Now we do not find any part without a Bone, (except this) that is Spontaneouſly protruded or prolong'd, and ſo kept for ſome time. Some may Imagine that the Tongue is mov'd after this manner; but 'tis certain, that the <hi>Muſculus geneogloſſus</hi> by the help of the <hi>Mylogloſſus</hi> draws the root of the Tongue, and conſequently the <hi>Os Hyoides</hi> forward, that is, to the fore part of the <hi>Maxilla inferior</hi> where they are inſerted, and that ſo it is that the Tongue is protended.</p>
+            <p>The onely way that I can gueſs this moti<g ref="char:EOLhyphen"/>on to be perform'd is by circular Fibres; ſeeing that there was no Bone towards the end of it, beyond the upper Jaw, which might be a <hi>Sta<g ref="char:EOLhyphen"/>bilimentum</hi> to Muſcles that might pull it for<g ref="char:EOLhyphen"/>wards; as the <hi>Geneogloſſus</hi> does the Tongue, by drawing the Baſis of it towards the middle of the <hi>Muxilla</hi> inferior. From the ſwelling of theſe Circular Fibres (which I ſuppoſe to be in the Trunk) we may expect the lengthen<g ref="char:EOLhyphen"/>ing of it, for as much, as each of them (be<g ref="char:EOLhyphen"/>ing kept from ſtarting outwards by the a<g ref="char:EOLhyphen"/>foreſaid three orders of Fibres and the Skin) muſt require much more room than they took up before they were ſwollen. This con<g ref="char:EOLhyphen"/>traction of annular Fibres muſt likewiſe
+<pb n="33" facs="tcp:59491:17"/>
+make the <hi>Proboſcis</hi> ſmaller, as, upon its ſhooting out, it was obſerv'd always to be.</p>
+            <p>Now whether <hi>de facto</hi> there were this kind of <hi>Fibres</hi> in it or not, I cannot tell, being hindered by the manager to ſearch for them, leaſt I ſhould make it unfit for preſervation; the Noſtrils for the little way that I ſaw them, were <hi>Cartilaginous.</hi>
+            </p>
+            <p>At the end of the <hi>Proboſcis</hi> there was, of the ſame ſubſtance with it, a little thing that pointed out like a peak; by which the Ele<g ref="char:EOLhyphen"/>phant was obſerv'd to take up very minute Bodies. I can ſay nothing of the ſtructure of this part.</p>
+            <p>Doubtleſs the Elephants care to preſerve the <hi>Proboſcis</hi> was great, for when we disjoint<g ref="char:EOLhyphen"/>ed him, we found it thruſt near Two Foot in<g ref="char:EOLhyphen"/>to a very hard ground; upon which account we thought that it had been Burnt, till the Head was divided from the Body, and that we found it kept faſt to the ground by the <hi>Proboſcis.</hi>
+            </p>
+            <p>
+               <note place="margin">Aſpera Arteria.</note> The <hi>Aſpera Arteria</hi> was large, and deſtitute of an <hi>Epiglottis;</hi> there being no danger of any things falling into the Lungs, from Eat<g ref="char:EOLhyphen"/>ing or Drinking, ſeeing that there was no
+<pb n="34" facs="tcp:59491:18"/>
+communication between the <hi>Aeſophagus</hi> and it.</p>
+            <p>The <hi>Cartilagines Aritaenoides</hi> made a <hi>glot<g ref="char:EOLhyphen"/>tis,</hi> in length about Three Inches and a Quarter, and in breadth about One and a Half towards the middle; this <hi>Aperture</hi> was ſomewhat Oval.</p>
+            <p>To the outſide of theſe <hi>Cartilages</hi> I found another grow, which was faſten'd to them, but ſo, as to be capable of motion up and down, by the help of ſome <hi>Muſcles</hi> which were implanted in it. It was ſtrong on both ſides of the <hi>Aſpera Arteria;</hi> but op<g ref="char:EOLhyphen"/>poſite to the <hi>Aeſophagus,</hi> or on the under ſide, it was very limber. This wanted a<g ref="char:EOLhyphen"/>bout Two Inches and a Half of coming round the aforeſaid <hi>Cartilages,</hi> on the upper ſide, or that next to the <hi>Aeſophagus.</hi> This ſeem'd to me to ſupply in ſome meaſure the want of an <hi>Epiglottis;</hi> in leſſening the <hi>Glottis</hi> to prevent the creeping in of Animals into the <hi>Thorax.</hi>
+            </p>
+            <p>
+               <note place="margin">Larinx.</note> The <hi>Muſcles</hi> of the <hi>larinx</hi> were very ſtrong. I ſuppoſe, that from the ſtructure of this part, we may gueſs at the reaſon, why the Elephant is afraid of a Mouſe, for the Mouſe having room to creep up his <hi>Pro<g ref="char:EOLhyphen"/>boſcis,</hi>
+               <pb n="35" facs="tcp:59491:18"/>
+might get into his Lungs, and ſo ſtifle him; there being no <hi>Epiglottis</hi> to hinder its paſſage, and the aforeſaid <hi>Cartilage</hi> being hardly ſufficient to ſhut the way againſt it; to avoid this danger, this Creature was ob<g ref="char:EOLhyphen"/>ſerv'd always, when he ſlept, to keep his <hi>Pro<g ref="char:EOLhyphen"/>boſcis</hi> ſo cloſe to the ground, that nothing but Air might get in between them.<note place="margin">Aſpera Arteria.</note> The Wind-pipe of this in other things, was like that of other Animals.</p>
+            <p>
+               <note place="margin">Oculi.</note> The Eyes were not ſo remarkable for any thing, as for their diſproportion to the reſt of the Body, having but little exceeded a Sheeps Eyes.</p>
+            <p>
+               <note place="margin">Aures.</note> The Ears were very large, and indented round; they were always obſerv'd to hang, except at ſuch times as the Elephant was vex'd, and then they were gather'd like a Purſe, and ſtood forward; at which time he always con<g ref="char:EOLhyphen"/>tracted his <hi>Proboſcis,</hi> and ſo made ready to ſhoot it out, and to punch either Man or Beaſt that anger'd him, and came within his reach.</p>
+            <p>
+               <note place="margin">Planae pedum.</note> The Soles of his Feet were plain, and co<g ref="char:EOLhyphen"/>ver'd, not with an Horny ſubſtance, or Hoof like other <hi>Quadrupeds,</hi> but with a Skin (like a Camel, as I am inform'd,) not half
+<pb n="36" facs="tcp:59491:19"/>
+as thick as that of his Body, but ſomewhat harder; it might eaſily be cut with a Knife in any part. By this means theſe Animals are ſecur'd from being founder'd in their Travels, in the much heated Sands of their native Countries; which they could not avoid if they were hoof'd; round the outſide of this by the ground, there were five little knobs, anſwering his five Toes; within this skin there was a great quantity of a greaſie ſubſtance, contain'd in tough Membranes, in little Cells; this was deſign'd to defend the Toes from wearing.</p>
+            <p>The Tusks had Cores in them ſomewhat like Marrow, but were more compact, and ſeem'd to have ſome mixture of <hi>Glanduls</hi> in them.</p>
+            <p>
+               <note place="margin">Dura &amp; pia mater.</note>When I Saw'd the Skull I found a very ſtrong <hi>dura mater;</hi> and a <hi>pia mater</hi> that might without being torn, be ſeparated in ma<g ref="char:EOLhyphen"/>ny places, from the ſubſtance of the Brain; <note place="margin">Cerebrum.</note> the Brains were much diſcolour'd, and very tender withal, and therefore could not be ta<g ref="char:EOLhyphen"/>ken out entire; and ſo they were very unfit for Obſervations.</p>
+            <p>
+               <note place="margin">Ejus pars corticalis.</note>The <hi>Pars Corticalis</hi> of the <hi>Cerebrum</hi> ſeem'd to be whiter than ordinary; and the <hi>Gyri</hi> more regular than in Men.</p>
+            <p>
+               <pb n="37" facs="tcp:59491:19"/>The <hi>Cerebellum</hi> was like that of a Man,<note place="margin">Cerebellum</note> only that it was bigger; both it and the <hi>Ce<g ref="char:EOLhyphen"/>rebrum</hi> vveig'd Ten Pounds.</p>
+            <p>If I forget not, I ſaw the Ten Pair of <hi>Nerves,</hi> as Doctor <hi>Willis</hi> deſcribes them; and can ſay nothing in particular of them, but that they were very large.</p>
+            <p>I preſerv'd a peice of one of the <hi>Nerves</hi> of the <hi>Os Sacrum,</hi> which was flattiſh, and but little ſmaller than a Bulls Pizle. Although I cannot certainly tell, whether that part of the <hi>Nerve</hi> which I preſcrib'd, was taken from the <hi>Femur,</hi> where the coalition of Four or Five <hi>Nerves,</hi> proceeding from the <hi>Os Sacrum,</hi> is uſually found, or not; and conſequently cannot ſo probably gueſs at the ſize of the other <hi>Nerves,</hi> as otherwiſe I might; yet this may ſhew, that the <hi>Nerves</hi> were propor<g ref="char:EOLhyphen"/>tionable to the other parts of this Ani<g ref="char:EOLhyphen"/>mal.</p>
+            <p>The Skeleton is better expreſs'd by a Plate well Engrav'd, then by any deſcription what<g ref="char:EOLhyphen"/>ſoever, and therefore, if you deſign to make this Publick, I deſire you would imploy one to take the Icon of it; you may find it with Mr. <hi>Dockwra</hi> Merchant in <hi>Lime-ſtreet, London.</hi> I ſhall not trouble you or my ſelf with a tedi<g ref="char:EOLhyphen"/>ous
+<pb n="38" facs="tcp:59491:20"/>
+deſcription of every Bone; but ſhall in ſhort give you the few Notes I thought con<g ref="char:EOLhyphen"/>venient to take, before a Copper Plate of the Elephant might be had, which may a little inform you, in caſe this be not thought worth Publiſhing.</p>
+            <p>
+               <note place="margin">Cranium.</note>The outward Table of the <hi>Cranium</hi> was very thin, and fragile; between this and the inner, which was not altogether ſo britle, there was nothing but a great number of Cells, (which if I forget not) were for the moſt part Triangular; theſe were lin'd with thin Membranes, in which were many Blood Veſſels curiouſly branch'd; theſe Cells were made of thin Plates of Bone.</p>
+            <p>The greateſt diſtance between the outward and inner Table, was Seven Inches, and the leaſt, Four; the intermedial were the moſt common; this I would have underſtood of that part of the Skull which I Saw'd for the taking of the Brains. In this place the Head was from outſide to outſide, Twenty Inches and Three Quarters.</p>
+            <p>The whole <hi>Cranium</hi> was ſo britle and thin, that without a plate of Iron nail'd in the Roof of the Mouth, in which the Iron rod that ran through the <hi>Vertebrae</hi> of the <hi>Dorſum</hi>
+               <pb n="39" facs="tcp:59491:20"/>
+and the Neck was faſten'd, we could not joyn the Head to the Body without a manifeſt dan<g ref="char:EOLhyphen"/>ger of its being torn to pieces by its own weight. If the ſpace between the Tables had been as ſolid in the Skull of the Elephant as it is in thoſe of other Animals, the weight of the Head would be too great, for even the Elephant himſelf to bear. And this may in ſome meaſure appear from the weight of the <hi>Maxilla inferior,</hi> which was but ſmall in reſpect of the other Bones of the Head. This I am told weigh'd ſixty pound, or near upon it. I ſuppoſe therefore, that the aforeſaid Cells were form'd to obviate that great in<g ref="char:EOLhyphen"/>conveniency, that is, the Heads being too hea<g ref="char:EOLhyphen"/>vy for the Body.</p>
+            <p>
+               <note place="margin">Dentes.</note> The length of each of the Tuskes was (as I have been inform'd) three foot and a half. When I ſearch'd for them I found one of them burnt to within leſs than a foot of the upper Jaw, in which they both grew. The other was broken off ſomewhat longer; they were bent towards one another, and croſt'd each other near their extremities. The Ele<g ref="char:EOLhyphen"/>phant was obſerved to feed himſelf with his <hi>Promuſcis,</hi> ſometimes thruſt through the ſpace made by the arch'd Teeth: at other
+<pb n="40" facs="tcp:59491:21"/>
+times by prolonging of it beyond their place of croſſing, and then turning of it inwards: and at ſeveral times by winding of it about the outſide of each of the Tusks to his mouth. Both theſe reach'd on the upper Jaw, as far as the Sockets for the Eyes; from which they vvere divided onely by thin ſhells of Bone. Theſe help'd to keep the formerly mention'd Cores vvithin the Teeth.</p>
+            <p>There vvas, beſides the Tusks only four Teeth in each javv, tvvo in every ſide.</p>
+            <p>The length of each of the inner Teeth of the lower Jaw, was about Six Inches and a Half; but the outward of the ſame Jaw, was only One and Three Quarters long.</p>
+            <p>The length of the hinder Tooth in the right upper Jaw, was Four Inches; but that of the oppoſite, vvas but Three Inches; the Tvvo outvvard Teeth of the upper Javv, vvere ſomevvhat longer then thoſe of the un<g ref="char:EOLhyphen"/>der; the greateſt breadth of the Teeth, vvas Tvvo Inches and Three Quarters; and the leaſt, about an Inch; the breadth of the Teeth of both Javvs vvas equal; the height of the Teeth above the Gums, vvas about an Inch and ¾; theſe Eight Teeth vvere <hi>Molares</hi> and ſo he had no <hi>Inciſores.</hi>
+            </p>
+            <p>
+               <pb n="41" facs="tcp:59491:21"/>The length of the <hi>Maxilla inferior</hi> was 21 Inches and ¾, and the bredth, that is,<note place="margin">Maxilla inferior.</note> from the outſide of one of the <hi>proceſſus condylodes</hi> to the outſide of the other, was 16 Inches and a half.</p>
+            <p>
+               <note place="margin">Vertebrae colli dorſi.</note> The <hi>Vertebrae</hi> of the <hi>Collum</hi> were 7. thoſe of the <hi>Dorſum</hi> were 20. To each of the latter there was a pair of Ribs,<note place="margin">Lumbo<g ref="char:EOLhyphen"/>rum oſſis Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i.</note> the <hi>Vertebra Lumbo<g ref="char:EOLhyphen"/>rum</hi> were only 3. thoſe of the <hi>Os Sacrum</hi> (which are more properly diviſions than <hi>Vertebrae</hi>) were ſix, a good part of the Tail was burnt, and I could not therefore find out the num<g ref="char:EOLhyphen"/>ber of Joynts in it.</p>
+            <p>
+               <note place="margin">Proceſſus tranſver<g ref="char:EOLhyphen"/>ſales &amp; ſp nae.</note> The <hi>Proceſſus tranſverſales ac ſpinae, dor<g ref="char:EOLhyphen"/>ſi &amp; colli</hi> were diſtinct Bones from their <hi>Verte<g ref="char:EOLhyphen"/>brae,</hi> and joyn'd to them by <hi>ſutures.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>lna.</note> The <hi>
+                  <g ref="char:V">Ʋ</g>lna</hi> and <hi>Radius</hi> did croſs one ano<g ref="char:EOLhyphen"/>ther ſo, as that the former came from the back part of the <hi>Os humeri</hi> its proper and u<g ref="char:EOLhyphen"/>ſual place, and was faſten'd by its other end, to the fore part of the <hi>Carpus,</hi> and the latter went contrarywiſe;<note place="margin">Radius.</note> this poſture of theſe Bones is unuſual, and ſeems to add ſtrength to that part.</p>
+            <p>The Back was arch'd like that of a Hog, which Figure contributes the moſt of any to the ſtrength of it.</p>
+            <p>I ſhall give you no further trouble, onely
+<pb n="42" facs="tcp:59491:22"/>
+deſire you would ſatisfie the R. S. that I preſerv'd moſt of the parts, that were not much defac'd by the Fire, nor likely to pe<g ref="char:EOLhyphen"/>riſh ſuddainly; till I had leaſure to examine them carefully. And in the mean time, I did what I could to inform my ſelf in the Anatomy of thoſe parts which were more or leſs alter'd by the heat, and were moſt ſub<g ref="char:EOLhyphen"/>ject to corruption. And to convince them of this Truth, I deſire that you aſſure them, that I have ſome parts of the Elephant at this time, which I preſerv'd then; and that as oft as I thought fit, I had the uſe of thoſe parts which were preſerv'd, and ſent away with the Skeleton; and that ſo it was that I was able to give even this imperfect account of the Structure of that Creature; this favour I deſire from you, leaſt any of them that reads the beginning of this Letter, ſhould believe me unfaithful in relating the matter of fact, when upon the peruſal of the remainder, they may find more then poſſibly they expected; their compliance herein, and kind acceptance of this, may encourage me to preſent you with other things of this nature. <hi>Sir,</hi>
+            </p>
+            <closer>
+               <signed>Your moſt Faithful, and moſt Obedient Servant, <hi>A. M.</hi>
+               </signed>
+               <dateline>Trinity College,
+<date>
+                     <hi>May</hi> 12th, 1682.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:59491:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
